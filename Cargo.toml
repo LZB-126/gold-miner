@@ -11,5 +11,4 @@ piston2d-graphics = "0.39.0"
 piston2d-opengl_graphics = "0.81.0"
 piston = "0.55.0"
 find_folder = "0.3.0"
-# 移除了piston2d-window依赖，因为ggez已经包含窗口管理功能
     
