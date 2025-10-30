@@ -1,0 +1,14 @@
+[package]
+name = "gold_miner"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+ggez = "0.9.3"
+rand = "0.8.5"
+nalgebra = "0.32.3"
+piston2d-graphics = "0.39.0"
+piston2d-opengl_graphics = "0.81.0"
+piston = "0.51.1"
+piston2d-window = "0.126.0"
+find_folder = "0.3.0"
